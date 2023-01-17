@@ -1,2 +1,2 @@
-# Employee-CMS
-A content-management-system for managing an employee database
+# Employee-Tracker
+A content-management-system to manage an employee database.
